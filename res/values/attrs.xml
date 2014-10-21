@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Style_line_edittext">
+        <attr name="line_margin_top_word" format="dimension" />
+        <attr name="line_color" format="color" />
+    </declare-styleable>
+
+</resources>
